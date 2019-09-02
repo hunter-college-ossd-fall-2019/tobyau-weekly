@@ -1,3 +1,3 @@
 ### What's poppin? 
-This repository contains weekly blogs written for a course in Open Source software development.
+This repository contains [weekly blogs](https://hunter-college-ossd-fall-2019.github.io/tobyau-weekly/) written for a course in Open Source software development.
 
