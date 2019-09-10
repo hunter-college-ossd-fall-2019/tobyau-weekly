@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+I'm currently an undergraduate student studying Computer Science at Hunter College. I specialize in web technologies 
+but also interested in expanding my knowledge towards mobile app development and data science. 
 
 ### More Information
-I'm currently an undergrad studying computer science at Hunter College. 
 
-I specialize in web technologies but also interested in expanding my knowledge towards mobile app development and data science. 
+When I'm not coding, I like to hang out with friends and catch up on their lives, play handball/volleyball, go biking, and have a good time. 
