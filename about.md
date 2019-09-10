@@ -7,8 +7,6 @@ permalink: /about/
 You should put some information about you here.
 
 ### More Information
-#### Hello there.
-I'm Toby Au and I'm an undergrad at Hunter studying computer science.
+I'm currently an undergrad studying computer science at Hunter College. 
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I specialize in web technologies but also interested in expanding my knowledge towards mobile app development and data science. 
