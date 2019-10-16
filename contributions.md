@@ -19,6 +19,7 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | link to my contribution    | Blog Edit    |   I fixed a broken link.    |
-|  3   |   [OpenStreet Map](https://www.openstreetmap.org/changeset/74404251)  |  Open Street Map Edit   |  Added names to buildings  |
-|     |     |     |      |
+|  3  |  [Link](https://www.openstreetmap.org/changeset/74404251)  |  Open Street Map Feature   |  Added buildings  |
+|  7  |  [Link](https://www.openstreetmap.org/changeset/75748629)  |   Open Street Map Feature  |  Added convenience stores |
+|  7  |  [Link](https://www.openstreetmap.org/changeset/75748892)  |   Open Street Map Feature  |  Added fast food chain |
+
