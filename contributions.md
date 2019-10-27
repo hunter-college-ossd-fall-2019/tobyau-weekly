@@ -26,3 +26,4 @@ Replace the first row below with your contribution.
 |  8  |  [Link](https://github.com/vinitshahdeo/inspirational-quotes/pull/483)  |  Inspirational Quote |  HacktoberFest |
 |  9  |  [Link](https://www.openstreetmap.org/changeset/76174521)  |   Open Street Map Feature  |  Added fast food chain |
 |  9  |  [Link](https://www.openstreetmap.org/changeset/76174604)  |   Open Street Map Feature  |  Update pharmacy address |
+|  9  |  [Link](https://www.openstreetmap.org/changeset/76270782)  |   Open Street Map Feature  |  Add gym |
