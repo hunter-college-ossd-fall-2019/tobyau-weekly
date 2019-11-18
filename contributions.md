@@ -29,3 +29,5 @@ Replace the first row below with your contribution.
 |  9  |  <https://www.openstreetmap.org/changeset/76270782>  |   Open Street Map Feature  |  Add gym |
 |  10 |  <https://en.wikipedia.org/w/index.php?title=Dumbfoundead&diff=prev&oldid=924719622>  |  Wikipedia  |  Add album |
 |  10 |  <https://en.wikipedia.org/w/index.php?title=David_So&diff=prev&oldid=925370651>  |  Wikipedia  |  Add hyperlink |
+|  12 |  <https://en.wikipedia.org/w/index.php?title=Fate/stay_night:_Unlimited_Blade_Works_(2010_film)&diff=prev&oldid=926760033>  |  Wikipedia  |  Add hyperlink |
+|  12 |  <https://en.wikipedia.org/w/index.php?title=Timothy_DeLaGhetto&diff=prev&oldid=926762323>  |  Wikipedia  |  Change album release date |
